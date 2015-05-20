@@ -1,0 +1,31 @@
+# Sass
+.sass-cache
+.scssc
+/css/main.css
+/css/main.css.map
+/css/sass.bat
+/css/sass/main.css
+/css/sassstart.bat
+main-build.css
+
+# Diffs
+*.orig
+
+# Package Managers
+/bower_components
+/node_modules
+npm-debug.log
+
+# IDE
+/.idea
+
+# Other
+.grunt
+nohup.out
+log.txt
+
+# OS
+*.DS_Store
+
+# Generated Documentation
+/docs
