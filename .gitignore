@@ -19,7 +19,8 @@ npm-debug.log
 # IDE
 /.idea
 .idea
-idea/*xml
+*.xml
+*.iml
 
 # Other
 .grunt
